@@ -1,0 +1,1 @@
+This project is a Car Sales Analysis dashboard built using Power BI to analyze sales performance, pricing trends, car volumes, and regional distribution. The dashboard helps understand how different car brands, body styles, colors, and regions contribute to overall sales and business growth.
